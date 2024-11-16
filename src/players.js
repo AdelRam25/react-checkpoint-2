@@ -1,0 +1,38 @@
+export const players = [
+  {
+    name: "Riyad Mahrez",
+    team: "Al-Ahli",
+    nationality: "Algerian",
+    number: "26",
+    age: 33,
+    rating:86,
+    imageUrl: "https://tmssl.akamaized.net//images/foto/galerie/riyad-mahrez-al-ahli-sfc-2023-1699945901-121779.jpg?lm=1699945912",
+  },
+  {
+    name: "Islam Slimani",
+    team: "Olympique Lyonnais",
+    nationality: "Algerian",
+    number: "9",
+    age: 36,
+    rating:99,
+    imageUrl: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyPlpC1iGrjVKe1KC_s5KBwLVEZfwwPjisN2QT8xWWLuH-ft5f",
+  },
+  {
+    name: "Amine Amoura",
+    team: "K.A.S. Eupen",
+    nationality: "Algerian",
+    number: "10",
+    age: 23,
+    rating:82,
+    imageUrl: "https://planetesport.dz/wp-content/uploads/2024/09/amoura.jpeg",
+  },
+  {
+    name: "Sofiane Fegouli",
+    team: "Al Taawoun",
+    nationality: "Algerian",
+    number: "22",
+    age: 34,
+    rating:84,
+    imageUrl: "https://planetesport.dz/wp-content/uploads/2023/09/Sofiane-Feghouli-1.jpg",
+  },
+];
